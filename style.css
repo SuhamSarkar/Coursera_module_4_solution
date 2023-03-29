@@ -1,0 +1,9 @@
+.heading{
+    /* border: 2px solid black; */
+    text-align: center;
+    margin: 200px;
+}
+body{
+    background: rgb(136, 136, 238);
+    color:black;
+}
